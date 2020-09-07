@@ -72,7 +72,7 @@ Data-Science-and-Heart-Diseases
 For [Cardiovascular Disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 * Code : [Click Here](https://github.com/RsTaK/Data-Science-anda-Heart-Diseases/blob/master/src/data-science-and-cardiovascular-diseases-cvds.ipynb)
 
-For [Heart Disease UCI](ttps://www.kaggle.com/ronitf/heart-disease-uci)
+For [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
 * Code : [Click Here](https://github.com/RsTaK/Data-Science-anda-Heart-Diseases/blob/master/src/datascience-tackling-heart-diseases.ipynb)
 * Github Page : [Click Here](https://rstak.github.io/Data-Science-and-Heart-Diseases/)
 
